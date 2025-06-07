@@ -6,4 +6,4 @@ This only requires one install, as the plugin should auto update its neccesary f
 
 # Approved Contributors
 
-@notbxno - Marlon Gomez
+[@notbxno](https://github.com/notbxno)
