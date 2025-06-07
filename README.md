@@ -7,3 +7,11 @@ This only requires one install, as the plugin should auto update its neccesary f
 # Approved Contributors
 
 [@notbxno](https://github.com/notbxno)
+
+# Included
+
+- vFPC
+- Departure Frequency Indicator
+- SSA Coordination Plugin
+- Missed Approach Alarm
+
